@@ -1,5 +1,7 @@
 # word-count-lite
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-jpgbmr.github.io-58a6ff?style=flat-square)](https://jpgbmr.github.io/word-counter/)
+
 Quickstart: Open `index.html`, type or paste text, watch live counts/readability/keywords, copy stats or text.
 
 ## Features
@@ -27,3 +29,10 @@ Despite steady rain, the crew pushed ahead. Sensors hummed, notebooks filled, an
 - Copy stats/text buttons populate the clipboard with JSON/raw content.
 - Readability cards show numbers for multi-sentence paragraphs; blanks stay as `--`.
 - Keyword list omits stopwords and updates case-insensitively.
+
+## Getting Started
+
+Open `index.html` in your browser. No install required.
+
+---
+*Part of the [JPGBMR](https://github.com/JPGBMR) open-source portfolio.*
